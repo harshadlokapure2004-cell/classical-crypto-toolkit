@@ -1,0 +1,3 @@
+# Classical Cryptography Toolkit - Requirements
+# This project uses Python 3 standard library modules (tkinter, math, secrets, random, unittest, pathlib).
+# No third-party external dependencies are required.
